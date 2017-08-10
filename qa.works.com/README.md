@@ -1,5 +1,3 @@
-# Cucumber-JVM-Test-framework
-
 Author :Timothy Ajisafe
 Cucumber JVM Test framework
 
